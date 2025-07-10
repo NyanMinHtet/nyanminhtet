@@ -11,13 +11,13 @@
 ## 🔧 Tech Stack  
 
 ### 🖥️ **Frontend**  
-- **Frameworks/Libraries:** Odoo
+- **Frameworks/Libraries:** Odoo, Django
 - **Styling:** Tailwind CSS, Bootstrap  
 
 ### ⚙️ **Backend**
 
 * **Languages:** Python, Javascript
-* **Frameworks & Microservices:** Odoo
+* **Frameworks & Microservices:** Odoo, Django
 * **API Development:** RESTful APIs
 * **Authentication & Security:** JWT, OAuth 2.0
 * **Database Management:** MySQL, PostgreSQL, SQLite
