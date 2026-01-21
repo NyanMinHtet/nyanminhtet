@@ -1,4 +1,6 @@
 # 👋 Hello! I'm Nyan Min Htet
+[![Available for Work](https://available.dev/api/badge/NyanMinHtet)](https://available.dev/NyanMinHtet)
+
 
 💻 **Backend Developer** | 🎨 **Odoo Developer** | 🚀 **Agile Practitioner**
 
